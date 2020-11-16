@@ -1,5 +1,6 @@
-### Hi there 👋
-This is Schenk!
+### 👋 Hi there
+---------------------------
+- This is Schenk!
 <!--
 **Schenk75/Schenk75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![schenk's github stats](https://github-readme-stats.vercel.app/api?username=Schenk75&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-### More
+### 💬 More
+------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schenk75&hide=html&layout=compact&theme=buefy&hide_border=true)
 
 ✨ Welcome to my [blog](https://schenk75.github.io/)~
