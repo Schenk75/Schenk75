@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![schenk's github stats](https://github-readme-stats.vercel.app/api?username=Schenk75&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![schenk's github stats](https://github-readme-stats.vercel.app/api?username=Schenk75&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 ### 💬 More
 ------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schenk75&hide=html&layout=compact&theme=buefy&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schenk75&hide=html&layout=compact&theme=tokyonight&hide_border=true)
 
 ✨ Welcome to my [blog](https://schenk75.github.io/)~
